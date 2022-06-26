@@ -1,0 +1,19 @@
+p {
+  font-family: Lato;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.icon-button {
+  font-size: 32px;
+  height: 60px;
+  width: 300px;
+  display: inline;
+  float: none;
+}
+
+.icon-double {
+  transform: scale(2);
+}
